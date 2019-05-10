@@ -1,1 +1,1 @@
-# tobz0r.github.io
+permalink: /index.html
